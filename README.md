@@ -4,7 +4,6 @@ I'm a Developer and the Manager of [UtiliBots](https://utilibots.gg/), and Assis
 
 **🔭 Current Projects**
 - [Digibot](https://utilibots.gg/invite/digibot)
-- [Iridium Moderation](https://utilibots.gg/invite/iridium)
 - Digibot Rewrite (JS)
 
 **⚡ I'm currently learning**
