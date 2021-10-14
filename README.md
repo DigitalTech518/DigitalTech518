@@ -1,6 +1,6 @@
 ### Hi there! 👋
 I'm a python developer who wants to learn more coding languages and I like coding Discord bots!
-I'm a Developer and the Manager of [UtiliBots](https://utilibots.gg/), and Assistant Manager of [Void Bots!](https://voidbots.net)
+I'm a Developer and the Manager of [UtiliBots](https://utilibots.co.uk/), and Assistant Manager of [Void Bots!](https://voidbots.net)
 
 **🔭 Current Projects**
 - [Digibot](https://utilibots.co.uk/invite/digibot)
